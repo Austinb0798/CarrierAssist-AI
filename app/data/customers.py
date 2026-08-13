@@ -1,0 +1,86 @@
+customers = {
+    "1001": {
+        "customer_id": "1001",
+        "name": "Alex Carter",
+        "account_status": "active",
+        "plan": "Unlimited Premium",
+        "balance_due": 0.00,
+        "device": "iPhone 17 Pro",
+        "esim_status": "active",
+        "line_status": "active",
+        "zip_code": "32724",
+        "upgrade_eligible": True
+    },
+    "1002": {
+        "customer_id": "1002",
+        "name": "Jordan Lee",
+        "account_status": "active",
+        "plan": "Unlimited Standard",
+        "balance_due": 42.18,
+        "device": "Galaxy S26 Ultra",
+        "esim_status": "active",
+        "line_status": "active",
+        "zip_code": "32724",
+        "upgrade_eligible": False
+    },
+    "1003": {
+        "customer_id": "1003",
+        "name": "Morgan Reed",
+        "account_status": "active",
+        "plan": "Unlimited Premium",
+        "balance_due": 0.00,
+        "device": "iPhone 16 Pro",
+        "esim_status": "active",
+        "line_status": "suspended",
+        "zip_code": "32724",
+        "upgrade_eligible": False
+    },
+    "1004": {
+        "customer_id": "1004",
+        "name": "Taylor Brooks",
+        "account_status": "active",
+        "plan": "Unlimited Standard",
+        "balance_due": 0.00,
+        "device": "Pixel 11 Pro",
+        "esim_status": "inactive",
+        "line_status": "active",
+        "zip_code": "32724",
+        "upgrade_eligible": True
+    },
+    "1005": {
+        "customer_id": "1005",
+        "name": "Casey Monroe",
+        "account_status": "active",
+        "plan": "Unlimited Premium",
+        "balance_due": 0.00,
+        "device": "Galaxy S26",
+        "esim_status": "active",
+        "line_status": "active",
+        "zip_code": "32720",
+        "upgrade_eligible": False
+    },
+    "1006": {
+        "customer_id": "1006",
+        "name": "Riley Shaw",
+        "account_status": "inactive",
+        "plan": "Unlimited Standard",
+        "balance_due": 87.54,
+        "device": "iPhone 17",
+        "esim_status": "active",
+        "line_status": "active",
+        "zip_code": "32724",
+        "upgrade_eligible": False
+    },
+    "1007": {
+        "customer_id": "1007",
+        "name": "Jamie Cole",
+        "account_status": "active",
+        "plan": "Unlimited Standard",
+        "balance_due": 156.32,
+        "device": "Galaxy S26 Ultra",
+        "esim_status": "active",
+        "line_status": "active",
+        "zip_code": "32724",
+        "upgrade_eligible": False
+    },
+}
